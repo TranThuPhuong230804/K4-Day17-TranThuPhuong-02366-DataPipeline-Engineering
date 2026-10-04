@@ -116,3 +116,7 @@ RESULT: PARITY — both implementations agree
 
 Nếu dùng PowerShell, ghi lệnh tương đương và output thực tế theo [SUBMISSION.md](../docs/SUBMISSION.md).
 Nếu làm bonus, thêm output B1 hoặc đường dẫn bằng chứng B2 ở cuối phần này.
+
+## Bằng chứng bonus
+
+- B2 — Brainstorm kiến trúc: [`bonus/DESIGN.md`](../bonus/DESIGN.md).
