@@ -6,7 +6,7 @@ Mỗi học viên nộp repo của mình; không dùng repo chung của nhóm.
 ## Tên repo
 
 - Repo đề bài: `K4-Track02-Day17-Data-Pipeline-Engineering`.
-- Repo bài nộp: `K4-Track02-Day17-HoVaTen-MSSV-DataPipelineEngineering`.
+- Repo bài nộp: `K4-Track02-Day17-TranThuPhuong-2A202602366-DataPipelineEngineering`.
 - Ví dụ: `K4-Track02-Day17-NguyenVanAn-20260001-DataPipelineEngineering`.
 
 Họ tên viết không dấu, không khoảng trắng; phân cách các phần bằng dấu `-`.
